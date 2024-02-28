@@ -9,3 +9,6 @@ get-students:
 
 mocks:
 	go generate ./...
+
+tests:
+	go test ./...
